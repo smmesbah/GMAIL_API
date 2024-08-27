@@ -1,0 +1,7 @@
+venv
+__pycache__
+.DS_Store
+.vscode
+.env
+saved_credentials.json
+credentials.json
